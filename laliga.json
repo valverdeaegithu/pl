@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd?start=1792723435"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "c88dc6c668cac3b468d4a4c7e176ff3d",
+          "key": "1aeb739de2c14ed0ad658ca8043208d8"
+        }
+      ]
+    }
+  }
+}
