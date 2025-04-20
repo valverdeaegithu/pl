@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "44dd9cd370b08a868ead115fe84ecfde",
+          "key": "bff19ab0a51cf14e848389b152913fd0"
+        }
+      ]
+    }
+  }
+}
