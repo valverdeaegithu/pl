@@ -1,13 +1,13 @@
 {
   "source": {
-    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd"
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd"
   },
   "drm": {
     "clearkey": {
       "keys": [
         {
-          "keyId": "7d6bb9f86e133e4cb33440b493b6b672",
-          "key": "584ad285dcb9e7d42cf3e93f1cc3fe11"
+          "keyId": "78ab64fa90f137a697743b5dc27b2f96",
+          "key": "de4d31c7fc6005ede28abab2a0720a9f"
         }
       ]
     }
