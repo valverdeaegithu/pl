@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "8ac8b2f7af05ad829805345a517bc110",
+          "key": "ee1ae1cd086fa9bfc0505e6d5e9e27e9"
+        }
+      ]
+    }
+  }
+}
