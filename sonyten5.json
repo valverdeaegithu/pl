@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "5e833f4019554aa394ff6de2eb19bf78",
+          "key": "f60e08a145804890492f315b61789ac5"
+        }
+      ]
+    }
+  }
+}
