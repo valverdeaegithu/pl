@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/je79yopexa/out/v1/ed67eeda21c243c3939139c7e21957b7/cenc.mpd"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "e54dd6014b944f1250d852ae5a8e5b77",
+          "key": "6386f9faed98d0c347041005420b2cd4"
+        }
+      ]
+    }
+  }
+}
